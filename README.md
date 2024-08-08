@@ -87,11 +87,6 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 ## 📇 Courses
 - [Grokking the Low Level Design Interview Using OOD Principles](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles?aff=BZyO)
 
-## 📚 Books
-- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/)
-- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/B08X8ZXT15)
-- [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
-
 ## Additional resources
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [Github - Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
